@@ -8,4 +8,4 @@
 
 ## 按键硬件原理解释视频
 点击下方图片观看完整的使用教程：
-[![操作视频封面](https://你的封面图片链接.jpg)](https://你的B站或YouTube视频链接)
+[![操作视频封面](https://你的封面图片链接.jpg)](https://www.bilibili.com/video/BV1hz5Q6BE9s/)
